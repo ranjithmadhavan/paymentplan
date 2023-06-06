@@ -1,0 +1,109 @@
+{
+  "success": true,
+  "data": [
+    {
+      "scheduledDate": "2022/11/15",
+      "payment": 527,
+      "principal": 527,
+      "interest": 0,
+      "balance": 0,
+      "status": "Scheduled"
+    },
+    {
+      "scheduledDate": "2022/12/15",
+      "payment": 527,
+      "principal": 527,
+      "interest": 0,
+      "balance": 0,
+      "status": "Scheduled"
+    },
+    {
+      "scheduledDate": "2023/01/15",
+      "payment": 527,
+      "principal": 527,
+      "interest": 0,
+      "balance": 0,
+      "status": "Scheduled"
+    },
+    {
+      "scheduledDate": "2023/02/15",
+      "payment": 527,
+      "principal": 527,
+      "interest": 0,
+      "balance": 0,
+      "status": "Scheduled"
+    },
+    {
+      "scheduledDate": "2023/03/15",
+      "payment": 339,
+      "principal": 339,
+      "interest": 0,
+      "balance": 0,
+      "status": "Scheduled"
+    },
+    {
+      "scheduledDate": "2023/03/15",
+      "payment": 188,
+      "principal": 188,
+      "interest": 0,
+      "balance": 0,
+      "status": "Scheduled"
+    },
+    {
+      "scheduledDate": "2023/04/15",
+      "payment": 527,
+      "principal": 527,
+      "interest": 0,
+      "balance": 0,
+      "status": "Scheduled"
+    },
+    {
+      "scheduledDate": "2023/05/15",
+      "payment": 527,
+      "principal": 527,
+      "interest": 0,
+      "balance": 0,
+      "status": "Scheduled"
+    },
+    {
+      "scheduledDate": "2023/06/15",
+      "payment": 527,
+      "principal": 527,
+      "interest": 0,
+      "balance": 0,
+      "status": "Scheduled"
+    },
+    {
+      "scheduledDate": "2023/07/15",
+      "payment": 527,
+      "principal": 527,
+      "interest": 0,
+      "balance": 0,
+      "status": "Scheduled"
+    },
+    {
+      "scheduledDate": "2023/08/15",
+      "payment": 527,
+      "principal": 527,
+      "interest": 0,
+      "balance": 0,
+      "status": "Scheduled"
+    },
+    {
+      "scheduledDate": "2023/09/15",
+      "payment": 527,
+      "principal": 527,
+      "interest": 0,
+      "balance": 0,
+      "status": "Scheduled"
+    },
+    {
+      "scheduledDate": "2023/10/14",
+      "payment": 516,
+      "principal": 516,
+      "interest": 0,
+      "balance": 0,
+      "status": "Scheduled"
+    }
+  ]
+}
